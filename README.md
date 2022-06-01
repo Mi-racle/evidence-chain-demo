@@ -209,7 +209,7 @@ spring.datasource.username=dbUsername
 # mysql密码
 spring.datasource.password=dbPassword
 spring.datasource.url=jdbc:mysql://127.0.0.1:3306/evi_chain?autoCommit=false&useUnicode=true&characterEncoding=utf-8\
-  &serverTimezone=Asia/Shanghai$\color{red}{&useSSL=false}$
+  &serverTimezone=Asia/Shanghai&useSSL=false
 
 ### 修改webase-front服务IP、端口与接口
 # webase前置服务1.2. 合约部署接口（结合WeBASE-Sign）
